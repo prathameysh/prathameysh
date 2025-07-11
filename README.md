@@ -77,7 +77,7 @@ I believe in **clean architecture**, **developer empathy**, and **continuous lea
 [![UI/UX](https://img.shields.io/badge/-UI/UX-FF4081?style=for-the-badge&logo=figma&logoColor=white)](https://uxdesign.cc/)
 
 ---
-
+<!-- 
 ### 🌍 Open Source Contributions
 
 #### 📦 [react-native-document-picker #823](https://github.com/react-native-documents/document-picker/pull/823)
@@ -110,7 +110,7 @@ Explore more 🔗 [@OldStager01](https://github.com/OldStager01?tab=repositories
 - 🥇 **Smart India Hackathon 2024 – Winner** 
 - 📃 **AWS Cloud Certified · Google Cloud Study Jam · NPTEL C++**
 - 🥇 **iDEA Hackathon 2025 – Finalist** 
-- ⚔️ **Code-e-Fiesta, Code Relay, Web Battles – Top Rankings**  
+- ⚔️ **Code-e-Fiesta, Code Relay, Web Battles – Top Rankings**   -->
 
 ---
 ### 📊 GitHub Stats
