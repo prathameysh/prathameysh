@@ -206,6 +206,10 @@
 </div>
 
 <hr />
+<hr />
+<hr />
+<hr />
+<hr />
 <h3 align="center">Contact</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/prathamesh-gavatre-8362b9271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
