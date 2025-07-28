@@ -58,10 +58,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="35" title="Docker" />
           <img width="12" /> Docker
         </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="25" title="RabbitMQ" />
-          <img width="12" /> RabbitMQ
-        </td>
+        
         </tr>
     </tbody>
   </table>
@@ -81,12 +78,8 @@
           <img width="12" /> MongoDB
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="30" title="Prisma" />
-          <img width="12" /> Prisma
-        </td>
-        <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="JavaScript" height="30" title="Redis" />
-          <img width="12" /> Redis
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" title="MySQL" />
+          <img width="12" /> MySQL
         </td>
       </tr>
     </tbody>
@@ -107,12 +100,12 @@
         <img width="12" /> JavaScript
      </td>
      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" title="Python"/>
-        <img width="12"/> Python
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="30" title="Java"/>
+        <img width="12"/> Java
      </td>
      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="30" title="C#"/>
-        <img width="12" /> C#
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" title="C++"/>
+        <img width="12" /> C++
      </td>
      <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="30" title="C"/>
