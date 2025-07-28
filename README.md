@@ -58,8 +58,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="35" title="Docker" />
           <img width="12" /> Docker
         </td>
-        
-        </tr>
+      </tr>
     </tbody>
   </table>
 
