@@ -8,7 +8,7 @@
 <hr />
 <h3 align="center">Contact</h3>
 <div align="center">
-      <a href="https://leetcode.com/u/prathameysh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"></a>
+      <a href="https://leetcode.com/u/prathameysh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="></a>
       <a href="https://prathameshgavatre.vercel.app/  " target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
       <a href="https://www.linkedin.com/in/prathamesh-gavatre-8362b9271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="mailto:prathameshgavatre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
