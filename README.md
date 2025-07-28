@@ -8,7 +8,7 @@
 <hr />
 <h3 align="center">Portfolio</h3>
 <div align="center">
-      <a href="https://luizgustavoalves.dev" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+      <a href="https://prathameshgavatre.vercel.app/  " target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 </div>
 <hr />
 
@@ -21,8 +21,8 @@
           <img width="12" /> TypeScript
          </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" height="30" title="NestJS" />
-          <img width="12" /> NestJS
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="NestJS" height="30" title="MongoDB" />
+          <img width="12" /> MongoDB
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="NextJS" />
