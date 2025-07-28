@@ -121,8 +121,8 @@
   <tbody>
     <tr>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="Next.js" />
-            <img width="12" /> Next.js
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" height="30" title="Express" />
+          <img width="12" /> Express
         </td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" title="React"/>
@@ -149,8 +149,8 @@
     </tr>
     <tr>
         <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="30" title="Jest" />
-            <img width="12" /> Jest
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose" height="30" title="Mongoose" />
+            <img width="12" /> Mongoose
         </td>
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" title="HTML"/> 
