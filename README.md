@@ -191,7 +191,7 @@
 
 ## 📜 Certifications:
 - **The Web Developer Bootcamp 2025 (Udemy)**
-- **NPTEL Database Management Systems**
+- **[NPTEL Database Management System](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs75/Course/NPTEL24CS75S14310005602721067.pdf)**
 - **AWS Academy Cloud Foundations**
 - **Design and Analysis of Algorithms (NPTEL)**
 
