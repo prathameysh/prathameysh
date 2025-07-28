@@ -164,6 +164,40 @@
   </tbody>
 </table>
 
+
+
+
+
+
+---
+
+## 🚀 Projects:
+
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Decentralized platform for secure biometric and medical data using **MERN Stack**, Blockchain, AI/ML.
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Waste-to-energy marketplace with **React, Auth0, Stripe** integration.
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Meal planning app with voting system for mess services.
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Full-stack education platform built during internship.
+
+---
+
+## 🏆 Competition:
+
+-  **Mind Spark Mini Hackathon (2025) (KBTCOE)**
+-  **Participant, Campus to Corporate 3.0 (CSI - KKWIEER)**
+-  **Participant, Code Quest 2.0 (Debugger’s Club - KKWIEER)** — 3rd place
+-  **Equinox: Web Battles (CSI-KKWIEER)**
+
+---
+
+## 📜 Certifications:
+- **The Web Developer Bootcamp 2025 (Udemy)**
+- **NPTEL Database Management Systems**
+- **AWS Academy Cloud Foundations**
+- **Design and Analysis of Algorithms (NPTEL)**
+
+---
+
+
 <hr />
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
@@ -180,7 +214,7 @@
 
 
 <!--
-**luiz-gustavo-alves/luiz-gustavo-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
