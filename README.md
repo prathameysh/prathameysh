@@ -21,7 +21,7 @@
           <img width="12" /> TypeScript
          </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="NestJS" height="30" title="MongoDB" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" title="MongoDB" />
           <img width="12" /> MongoDB
         </td>
         <td>
