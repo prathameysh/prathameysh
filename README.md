@@ -4,10 +4,6 @@
 - 🎓 Bachelor Degree in Computer Science at [KKWIEER](https://www.kkwagh.edu.in/).
 - 🖥️ Working with: **MongoDB**, **NodeJS**, **Express**, **React** and **Tailwind**.
 - 👀 Check out my portfolio: [prathameshgavatre.app](https://prathameshgavatre.vercel.app/).
-n fact: I speak 3 languages:
-    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1e7-1f1f7.png" height="20" /> Portuguese
-    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1fa-1f1f8.png" height="20" /> English
-    - <img src="https://images.emojiterra.com/twitter/v14.0/512px/1f1ea-1f1f8.png" height="20" /> Spanish
 
 <hr />
 <h3 align="center">Portfolio</h3>
