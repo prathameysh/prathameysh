@@ -190,9 +190,9 @@
 ---
 
 ## 📜 Certifications:
-- **[The Web Developer Bootcamp 2025 (Udemy)]([KKWIEER](https://www.kkwagh.edu.in/))**
+- **[The Web Developer Bootcamp 2025 (Udemy)](https://www.udemy.com/certificate/UC-f535e301-fbd7-4c89-9293-3b8ad5db13e2/)**
 - **[NPTEL Database Management System](https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs75/Course/NPTEL24CS75S14310005602721067.pdf)**
-- **[AWS Academy Cloud Foundations]([KKWIEER](https://www.kkwagh.edu.in/))**
+- **[AWS Academy Cloud Foundations](https://www.credly.com/badges/5a803579-1948-481c-b764-e0e0dbc5055a/print)**
 - **[NPTEL Computer Networks and Internet Protocol](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs19/Course/NPTEL24CS19S36360004730638990.pdf)**
 
 ---
