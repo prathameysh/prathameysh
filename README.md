@@ -25,8 +25,12 @@
           <img width="12" /> MongoDB
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" title="NextJS" />
-          <img width="12" /> NextJS
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="30" title="NodeJS" />
+          <img width="12" /> NodeJS
+        </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" height="30" title="Express" />
+          <img width="12" /> Express
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" title="React" />
