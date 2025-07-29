@@ -6,7 +6,7 @@
 - 👀 Check out my portfolio: [prathameshgavatre.app](https://prathameshgavatre.vercel.app/).
 
 <hr />
-<h3 align="center">Contact</h3>
+## 🚀 Contact:
 <div align="center">
       <a href="https://leetcode.com/u/prathameysh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="></a>
       <a href="https://prathameshgavatre.vercel.app/  " target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
