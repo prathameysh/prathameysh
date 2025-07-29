@@ -6,7 +6,7 @@
 - 👀 Check out my portfolio: [prathameshgavatre.app](https://prathameshgavatre.vercel.app/).
 
 <hr />
-## 🚀 Contact:
+<h3 align="center">Contact</h3>
 <div align="center">
       <a href="https://leetcode.com/u/prathameysh" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="></a>
       <a href="https://prathameshgavatre.vercel.app/  " target="_blank" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
@@ -178,7 +178,7 @@
 ## 🚀 Projects:
 
 - 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — An analytics-first inventory management system using the **MERN Stack** to provide real-time business insights through a dynamic **Data Visualization** interface.
-- 🔗 [**devTinder**](http://13.61.144.157/) — A full-stack social networking application built with the MERN stack that allows developers to connect using a Tinder-style matchmaking interface.
+- 🔗 [**devTinder**](http://13.61.144.157/) — A full-stack social networking application built with the **MERN stack** that allows developers to connect using a Tinder-style matchmaking interface.
 ---
 
 ## 🏆 Competition:
