@@ -202,7 +202,7 @@
 ---
 
 
-<hr />
+
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
     <img height="175em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prathameysh&show_icons=true&locale=en&layout=compact&theme=radical" alt="prathameysh" />
