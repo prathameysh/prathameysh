@@ -1,8 +1,6 @@
 <h1 align="center">👾 Prathamesh Santosh Gavatre 👾</h1>
 
 
----
-
 ## 🙋‍♀️ About Me:
 - 👩‍💻 MERN Stack Developer with strong communication, teamwork, and problem-solving skills.
 - 🎓 Bachelor Degree in Computer Science at [KKWIEER](https://www.kkwagh.edu.in/).
