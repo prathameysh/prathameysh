@@ -18,9 +18,9 @@
       <a href="mailto:prathameshgavatre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
-<hr />
 
-<h3 align="center">Tech Stack</h3>
+---
+## 💻 Tech Stack:
   <table align="center">
     <tbody>
        <tr>
