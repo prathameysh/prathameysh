@@ -177,11 +177,8 @@
 
 ## 🚀 Projects:
 
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Decentralized platform for secure biometric and medical data using **MERN Stack**, Blockchain, AI/ML.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Waste-to-energy marketplace with **React, Auth0, Stripe** integration.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Meal planning app with voting system for mess services.
-- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — Full-stack education platform built during internship.
-
+- 🔗 [**Stock-Sage**](https://stock-sage-wheat.vercel.app/) — An analytics-first inventory management system using the **MERN Stack** to provide real-time business insights through a dynamic **Data Visualization** interface.
+- 🔗 [**devTinder**](http://13.61.144.157/) — A full-stack social networking application built with the MERN stack that allows developers to connect using a Tinder-style matchmaking interface.
 ---
 
 ## 🏆 Competition:
