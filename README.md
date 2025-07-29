@@ -1,6 +1,6 @@
 <h1 align="center">👾 Prathamesh Santosh Gavatre 👾</h1>
 
-- 🎯 Full Stack Developer with background in programming.
+- 👩‍💻 MERN Stack Developer with strong communication, teamwork, and problem-solving skills.
 - 🎓 Bachelor Degree in Computer Science at [KKWIEER](https://www.kkwagh.edu.in/).
 - 🖥️ Working with: **MongoDB**, **NodeJS**, **Express**, **React** and **Tailwind**.
 - 👀 Check out my portfolio: [prathameshgavatre.app](https://prathameshgavatre.vercel.app/).
